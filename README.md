@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes. Hi, I’m Sandeep
 
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=naagar&&hide=stars&show_icons=true&hide_title=true&hide_border=true)](https://github.com/NaagarRN)
 
-#### Get in Touch 👽
+<!-- #### Get in Touch 👽
 - Twitter: [@naagar](https://twitter.com/NaagarRN)
 - LinkedIn: [@naagar](https://www.linkedin.com/in/sandeepnaagar/)
-- Website: [naagar.github.io](https://naagar.github.io)
+- Website: [naagar.github.io](https://naagar.github.io) -->
