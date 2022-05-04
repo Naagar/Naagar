@@ -23,15 +23,9 @@ You can click the Preview link to take a look at your changes. Hi, I’m Sandeep
  I’m looking to collaborate on Energy-based generative models.
  How to reach me ... !(profile page)[https://naagar.github.io]
 --->
-
 <!-- https://github.com/jbhuang0604/awesome-computer-vision -->
 
 <!-- - Data Scientist leading innovation in AI at Fortune 100 companies -->
-
-[![Visits Badge](https://badges.pufler.dev/visits/naagar/naagar)](https://naagar.github.io)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/naagar)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sandeepnaagar/)
-
 #### GitHub Stats
 <!-- https://badges.pufler.dev/repos/{naagar} -->
 
@@ -41,3 +35,6 @@ You can click the Preview link to take a look at your changes. Hi, I’m Sandeep
 - Twitter: [@naagar](https://twitter.com/NaagarRN)
 - LinkedIn: [@naagar](https://www.linkedin.com/in/sandeepnaagar/)
 - Website: [naagar.github.io](https://naagar.github.io) -->
+[![Visits Badge](https://badges.pufler.dev/visits/naagar/naagar)](https://naagar.github.io)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/naagar)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sandeepnaagar/)
