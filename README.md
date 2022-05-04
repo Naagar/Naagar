@@ -1,12 +1,12 @@
  ### Hey! 👋 🧑‍🚀
 
 #### About Me 🚀
-- 👀 I’m interested in Theoretical ML, Computer Vision.
-- 🌱 Currently MS by research student at ML Lab, IIIT-Hyderabad.
+- 👀 I’m interested in Theoretical ML and Computer Vision.
+- 🌱 Currently an MS by research student at ML Lab, IIIT-Hyderabad.
 - 💞️ I’m looking to collaborate on Energy-based generative models.
 <!-- - 📫 How to reach me ... [profile page](https://naagar.github.io) -->
 - We have introduced a new dataset, [check this out](https://naagar.github.io/cornseedsdataset)  
-
+- Resource: [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 <!---
 Naagar/Naagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. Hi, I’m Sandeep Nagar
@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes. Hi, I’m Sandeep
  How to reach me ... !(profile page)[https://naagar.github.io]
 --->
 
+<!-- https://github.com/jbhuang0604/awesome-computer-vision -->
 
 
 <!-- - Data Scientist leading innovation in AI at Fortune 100 companies -->
