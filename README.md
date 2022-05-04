@@ -1,13 +1,12 @@
  ### Hey! 👋 🧑‍🚀
-
 #### About Me 🚀
 - 👀 I’m interested in Theoretical ML and Computer Vision.
 - 🌱 Currently an MS by research student at ML Lab, IIIT-Hyderabad.
 - 💞️ I’m looking to collaborate on Energy-based generative models.
+- 🏛️ UIUC, UNSW, IIIT-H, HBTU
 <!-- - 📫 How to reach me ... [profile page](https://naagar.github.io) -->
 - We have introduced a new dataset, [check this out](https://naagar.github.io/cornseedsdataset)  
 - Resource: [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
-
 <p align="center"> 
 	<a href="https://twitter.com/NaagarRN"><img src="imgs/twitter.svg" alt="Twitter"></a>
 	<a href="https://github.com/naagar"><img src="imgs/github.svg" alt="GitHub"></a>
@@ -15,7 +14,6 @@
 <!-- 	<a href="https://github.com/sponsors/terrytangyuan"><img src="imgs/sponsors.svg" alt="Sponsors"></a> -->
 	<a href="https://drive.google.com/file/d/1FnQi-tNJ9IWwpk2hwgQgv8E-t9FPp4SA/view?usp=sharing"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 	<a href="https://scholar.google.com/citations?user=MQQy_T4AAAAJ&hl=en&authuser=1"><img src="imgs/citations.svg" alt="Citations"></a>
-<!-- 	<a href="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/wechat-qr-code.png"><img src="imgs/wechat.svg" alt="微信"></a> -->
 </p>
 <!---
 Naagar/Naagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,9 +26,7 @@ You can click the Preview link to take a look at your changes. Hi, I’m Sandeep
 
 <!-- https://github.com/jbhuang0604/awesome-computer-vision -->
 
-
 <!-- - Data Scientist leading innovation in AI at Fortune 100 companies -->
-- 🏛️ UIUC, UNSW, IIIT-H, HBTU
 
 [![Visits Badge](https://badges.pufler.dev/visits/naagar/naagar)](https://naagar.github.io)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/naagar)
