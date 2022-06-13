@@ -2,7 +2,7 @@
 #### About Me 🚀
 - 👀 I’m interested in Theoretical ML and Computer Vision.
 - 🌱 Currently an MS by research student at ML Lab, IIIT-Hyderabad.
-- 💞️ I’m looking to collaborate on Energy-based generative models.
+- 💞️ I’m looking to collaborate on Energy-based generative models and Diffusion Models.
 - 🏛️ UIUC, UNSW, IIIT-H, HBTU
 <!-- - 📫 How to reach me ... [profile page](https://naagar.github.io) -->
 - We have introduced a new dataset, [check this out](https://naagar.github.io/cornseedsdataset)  
