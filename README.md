@@ -12,7 +12,7 @@
 	<a href="https://github.com/naagar"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/sandeepnaagar"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 <!-- 	<a href="https://github.com/sponsors/terrytangyuan"><img src="imgs/sponsors.svg" alt="Sponsors"></a> -->
-	<a href="https://drive.google.com/file/d/1oZh-W9nwraYmngj0cFKxzFjayfy5CuaT/view?usp=sharing"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+	<a href="https://drive.google.com/file/d/1FnQi-tNJ9IWwpk2hwgQgv8E-t9FPp4SA/view?usp=sharing"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 	<a href="https://scholar.google.com/citations?user=MQQy_T4AAAAJ&hl=en&authuser=1"><img src="imgs/citations.svg" alt="Citations"></a>
 </p>
 <!---
