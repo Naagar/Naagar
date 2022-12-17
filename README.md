@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Energy-based generative models and Diffusion Models.
 - 🏛️ IIIT Hyderabad, Univ. of Leicester | UIUC, UNSW, HBTU Kanpur
 <!-- - 📫 How to reach me ... [profile page](https://naagar.github.io) -->
-- We have introduced a new dataset, [check this out](https://naagar.github.io/cornseedsdataset)  
+- We have introduced a new dataset, [click me](https://naagar.github.io/cornseedsdataset)  
 - Resource: [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 <p align="center"> 
 	<a href="https://twitter.com/NaagarRN"><img src="imgs/twitter.svg" alt="Twitter"></a>
