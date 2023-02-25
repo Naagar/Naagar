@@ -1,7 +1,7 @@
  ### Hey! 👋 🧑‍🚀
 #### About Me 🚀
 - 👀 I’m interested in Theoretical ML and Computer Vision.
-- 🌱 Currently an MS by research student at ML Lab, IIIT Hyderabad.
+- 🌱 Currently an final year PhD student at ML Lab, IIIT Hyderabad.
 - 💞️ I’m looking to collaborate on Energy-based generative models and Diffusion Models.
 - 🏛️ IIIT Hyderabad, Univ. of Leicester | UIUC, UNSW, HBTU Kanpur
 <!-- - 📫 How to reach me ... [profile page](https://naagar.github.io) -->
