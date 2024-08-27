@@ -1,9 +1,9 @@
  ### Hey! 👋 🧑‍🚀
 #### About Me 🚀
 - 👀 I’m interested in Theoretical ML and Computer Vision.
-- 🌱 Currently an final year PhD student at ML Lab, IIIT Hyderabad.
+- 🌱 Currently a final year PhD student at ML Lab, IIIT Hyderabad.
 - 💞️ I’m looking to collaborate on Energy-based generative models and Diffusion Models.
-- Research Intern-Samsung Researh Bangalore, 🏛️ IIIT Hyderabad || Univ. of Leicester, UIUC, UNSW, HBTU Kanpur.
+- Research Intern-Samsung Research Bangalore, 🏛️ IIIT Hyderabad || Univ. of Leicester, UIUC, UNSW, HBTU Kanpur.
 <!-- - 📫 How to reach me ... [profile page](https://naagar.github.io) -->
 - We have introduced a new dataset, [click me](https://naagar.github.io/cornseedsdataset)  
 - Resource: [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
@@ -19,7 +19,7 @@
 Naagar/Naagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. Hi, I’m Sandeep Nagar
  I’m interested in Theoretical ML, Computer Vision
- I’m currently MS by research student at ML Lab, IIIT-Hyderabad.
+ I’m currently an MS research student at ML Lab, IIIT-Hyderabad.
  I’m looking to collaborate on Energy-based generative models.
  How to reach me ... !(profile page)[https://naagar.github.io]
 --->
