@@ -3,10 +3,10 @@
 - 👀 I’m interested in Theoretical ML and Computer Vision.
 - 🌱 Currently a final year PhD student at ML Lab, IIIT Hyderabad.
 - 💞️ I’m looking to collaborate on Energy-based generative models and Diffusion Models.
-- Research Intern-Samsung Research Bangalore, 🏛️ IIIT Hyderabad || Univ. of Leicester, UIUC, UNSW, HBTU Kanpur.
+- 🏛️ IIIT Hyderabad || Samsung Research, Univ. of Leicester, UIUC, UNSW, HBTU Kanpur.
 <!-- - 📫 How to reach me ... [profile page](https://naagar.github.io) -->
 - We have introduced a new dataset, [click me](https://naagar.github.io/cornseedsdataset)  
-- Resource: [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+- Awesome Computer Vision Resource: [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 <p align="center"> 
 	<a href="https://twitter.com/NaagarRN"><img src="imgs/twitter.svg" alt="Twitter"></a>
 	<a href="https://github.com/naagar"><img src="imgs/github.svg" alt="GitHub"></a>
