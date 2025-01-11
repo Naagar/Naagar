@@ -1,4 +1,4 @@
- ### Hi 👋 🧑‍🚀
+ ### Hi 👋
 #### About Me 🚀
 - 👀 I’m interested in Theoretical ML and Computer Vision.
 - 🌱 Currently a final year PhD student at ML Lab, IIIT Hyderabad.
