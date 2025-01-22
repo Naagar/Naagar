@@ -4,7 +4,7 @@
 - 🌱 Currently a final year PhD student at ML Lab, IIIT Hyderabad.
 - 💞️ I’m looking to collaborate on Energy-based generative models and Diffusion Models.
 - 🏛️ IIIT Hyderabad || Samsung Research, Univ. of Leicester, UIUC, UNSW, HBTU Kanpur.
-- https://researchweb.iiit.ac.in/~sandeep.nagar/
+- [Personal Webpage](https://researchweb.iiit.ac.in/~sandeep.nagar/)
 <!-- - 📫 How to reach me ... [profile page](https://naagar.github.io) -->
 - We have introduced a new dataset, [click me](https://naagar.github.io/cornseedsdataset)  
 - Awesome Computer Vision Resource: [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
