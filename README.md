@@ -27,6 +27,15 @@ You can click the Preview link to take a look at your changes. Hi, I’m Sandeep
 <!-- https://github.com/jbhuang0604/awesome-computer-vision -->
 
 <!-- - Data Scientist leading innovation in AI at Fortune 100 companies -->
+## Selected Papers: 
+ - CInc Flow: [TPM-W, UAI21](https://naagar.github.io/project_page_CInCFlow/)
+ - FInC Flow: [VISIGRAPP23](https://naagar.github.io/project_page_FInCFlow/)
+ - Inverse-Flow: [AISTATS25](https://naagar.github.io/projectPage_InverseFlow/)
+ - Seeds purity: [PReMI](https://github.com/Naagar/cornseedsdataset)
+ - Remote Sensing: [ASR Journal](https://www.sciencedirect.com/science/article/pii/S0273117724009335)
+ - R2I-rPPG: [pre-print](https://arxiv.org/abs/2410.15851)
+ - Affine-StableSR: [pre-print](https://scholar.google.com/citations?user=MQQy_T4AAAAJ)
+ - Art Restoration: [IEEE-ICETCI](https://ieeexplore.ieee.org/abstract/document/10331102/)
 #### GitHub Stats
 <!-- https://badges.pufler.dev/repos/{naagar} -->
 
