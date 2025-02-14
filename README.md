@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes. Hi, I’m Sandeep
 <!-- - Data Scientist leading innovation in AI at Fortune 100 companies -->
 ## Selected Papers: 
  - Inverse-Flow: [AISTATS`25](https://naagar.github.io/projectPage_InverseFlow/)
- - CInc Flow: [TPM-W, UAI`21](https://naagar.github.io/project_page_CInCFlow/)
+ - CInC Flow: [TPM-W, UAI`21](https://naagar.github.io/project_page_CInCFlow/)
  - FInC Flow: [VISIGRAPP`23](https://naagar.github.io/project_page_FInCFlow/)
  - Remote Sensing: [ASR Journal`24](https://www.sciencedirect.com/science/article/pii/S0273117724009335)
  - Seeds purity: [PReMI`21](https://github.com/Naagar/cornseedsdataset)
