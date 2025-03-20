@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes. Hi, I’m Sandeep
  - R2I-rPPG: [pre-print](https://arxiv.org/abs/2410.15851)
  - Affine-StableSR: [pre-print`24](https://scholar.google.com/citations?user=MQQy_T4AAAAJ)
  - Art Restoration: [IEEE-ICETCI`23](https://ieeexplore.ieee.org/abstract/document/10331102/)
+ - Missing Traffic Sign: [NCVPRIPG-23](https://link.springer.com/chapter/10.1007/978-981-97-5212-6_16)
 #### GitHub Stats
 <!-- https://badges.pufler.dev/repos/{naagar} -->
 
