@@ -10,6 +10,7 @@
 - Awesome Computer Vision Resource: [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 <p align="center"> 
 	<a href="https://twitter.com/NaagarRN"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://bsky.app/profile/naagar.bsky.social"><img src="imgs/Bluesky_Logo_with_wordmark_1.png" alt="Bluesky"></a> <!-- Add your actual Bluesky ID here -->
 	<a href="https://github.com/naagar"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/sandeepnaagar"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 <!-- 	<a href="https://github.com/sponsors/terrytangyuan"><img src="imgs/sponsors.svg" alt="Sponsors"></a> -->
