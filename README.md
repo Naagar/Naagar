@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes. Hi, I’m Sandeep
  - Inverse-Flow: [AISTATS`25](https://naagar.github.io/InverseFlow/)
  - CInC Flow: [TPM-W, UAI`21](https://naagar.github.io/CInCFlow/)
  - FInC Flow: [VISIGRAPP`23](https://naagar.github.io/FInC-Flow/)
- - Remote Sensing: [ASR Journal`24](https://naagar.github.io/stackedAE4Geo/)
+ - Geo-SAE: [ASR Journal`24](https://naagar.github.io/stackedAE4Geo/)
  - Seeds purity: [PReMI`21](https://naagar.github.io/cornseedsdataset/)
  - R2I-rPPG: [pre-print](https://arxiv.org/abs/2410.15851)
  - Affine-StableSR: [pre-print`24](https://scholar.google.com/citations?user=MQQy_T4AAAAJ)
