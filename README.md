@@ -1,6 +1,6 @@
  ### Hi 👋
 #### About Me 🚀
-- 👀 I’m interested in Theoretical ML and Computer Vision.
+- 👀 I’m interested in Theoretical ML, Generative Models, and AI4Health.
 - I am a PostDoc at [TU Munich](https://www.tum.de/en/?r=1) under the supervision of [Prof. Benedikt Wiestler](https://ai-idt.github.io/) and [Prof. Anke Meyer-Baese](https://www.sc.fsu.edu/people?uid=ameyerbaese). 
 - 🌱 PhD (thesis submitted) at ML Lab, IIIT Hyderabad.
 - 💞️ I’m looking to collaborate on Energy-based generative models and Flow Models.
