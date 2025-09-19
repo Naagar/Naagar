@@ -4,7 +4,7 @@
 - I am a PostDoc at [TU Munich](https://www.tum.de/en/?r=1) under the supervision of [Prof. Benedikt Wiestler](https://ai-idt.github.io/) and [Prof. Anke Meyer-Baese](https://www.sc.fsu.edu/people?uid=ameyerbaese). 
 - 🌱 PhD (thesis submitted) at ML Lab, IIIT Hyderabad.
 - 💞️ I’m looking to collaborate on Energy-based generative models and Flow Models.
-- 🏛️ IIIT Hyderabad || Samsung Research, Univ. of Leicester, UIUC, UNSW, HBTU Kanpur.
+- 🏛️  TU Munich || IIIT Hyderabad, Samsung Research, Univ. of Leicester, UIUC, UNSW, HBTU Kanpur.
 - [Personal Webpage](https://researchweb.iiit.ac.in/~sandeep.nagar/)
 <!-- - 📫 How to reach me ... [profile page](https://naagar.github.io) -->
 - We have introduced a new dataset, [click me](https://naagar.github.io/cornseedsdataset)  
