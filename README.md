@@ -2,7 +2,7 @@
 #### About Me 🚀
 - 👀 I’m interested in Theoretical ML, Generative Models, and AI4Health.
 - I am a PostDoc at [IAS, TU Munich](https://www.ias.tum.de/ias/start/) under the supervision of [Prof. Benedikt Wiestler](https://ai-idt.github.io/) and [Prof. Anke Meyer-Baese](https://www.sc.fsu.edu/people?uid=ameyerbaese). 
-- 🌱 PhD (thesis defended) at ML Lab, IIIT Hyderabad.
+- 🌱 PhD, Machine Learning Lab, IIIT Hyderabad.
 - 💞️ I’m looking to collaborate on Energy-based generative models and Flow Models.
 - 🏛️  [TU Munich](https://www.tum.de/en/?r=1) || [IIIT Hyderabad](https://www.iiit.ac.in/), [Samsung Research](https://research.samsung.com/sri-b), [Univ. of Leicester](https://le.ac.uk/), [UIUC](https://ece.illinois.edu/about/directory/faculty/n-ahuja), [UNSW](https://www.unsw.edu.au/), [HBTU Kanpur](https://hbtu.ac.in/).
 - [Personal Webpage](naagar.github.io)
