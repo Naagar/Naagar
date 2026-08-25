@@ -15,7 +15,7 @@
 
 ---
 
-I am a postdoc at [IAS, TU Munich](https://www.ias.tum.de/ias/start/), working with [Prof. Benedikt Wiestler](https://ai-idt.github.io/) ([AI-IDT Lab](https://ai-idt.github.io/)) and [Prof. Anke Meyer-Baese](https://www.sc.fsu.edu/people?uid=ameyerbaese) (Florida State University) on generative models for medical imaging. MCML has a [short film](https://mcml.ai/news/2026-07-31-wiestler-research-film/) on the group's work.
+I am a postdoc at [IAS, TU Munich](https://www.ias.tum.de/ias/start/), working with [Prof. Benedikt Wiestler](https://ai-idt.github.io/) (AI-IDT Lab) and [Prof. Anke Meyer-Baese](https://www.sc.fsu.edu/people?uid=ameyerbaese) (Florida State University) on generative models for medical imaging. MCML has a [short film](https://mcml.ai/news/2026-07-31-wiestler-research-film/) on the group's work.
 
 I completed my PhD at the Machine Learning Lab, [IIIT Hyderabad](https://www.iiit.ac.in/), advised by [Prof. Girish Varma](https://girishvarma.in/). The thesis, *[Fast & Efficient Normalizing Flows and Applications of Image Generative Models](https://arxiv.org/abs/2512.04039)*, develops invertible convolutional layers that are both theoretically characterized and fast on GPU, then uses generative models in vision and scientific applications.
 
