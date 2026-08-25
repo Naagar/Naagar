@@ -1,52 +1,95 @@
- ### Hi 👋
-#### About Me 🚀
-- 👀 I’m interested in Theoretical ML, Generative Models, and AI4Health.
-- I am a PostDoc at [IAS, TU Munich](https://www.ias.tum.de/ias/start/) under the supervision of [Prof. Benedikt Wiestler](https://ai-idt.github.io/) and [Prof. Anke Meyer-Baese](https://www.sc.fsu.edu/people?uid=ameyerbaese). To know more about our work, watch [this video](https://mcml.ai/news/2026-07-31-wiestler-research-film/)
-- 🌱 PhD, Machine Learning Lab, IIIT Hyderabad.
-- 💞️ I’m looking to collaborate on Energy-based generative models and Flow Models.
-- 🏛️  [TU Munich](https://www.tum.de/en/?r=1) || [IIIT Hyderabad](https://www.iiit.ac.in/), [Samsung Research](https://research.samsung.com/sri-b), [Univ. of Leicester](https://le.ac.uk/), [UIUC](https://ece.illinois.edu/about/directory/faculty/n-ahuja), [UNSW](https://www.unsw.edu.au/), [HBTU Kanpur](https://hbtu.ac.in/).
-- [Personal Webpage](naagar.github.io)
-<!-- - 📫 How to reach me ... [profile page](https://naagar.github.io) -->
-- We have introduced a new dataset, [click me](https://naagar.github.io/cornseedsdataset)  
-- Awesome Computer Vision Resource: [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
-<p align="center"> 
-	<a href="https://twitter.com/NaagarRN"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="https://bsky.app/profile/naagar.bsky.social"><img src="imgs/Bluesky_Logo_with_wordmark_1.png" alt="Bluesky"></a> <!-- Add your actual Bluesky ID here -->
-	<a href="https://github.com/naagar"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/sandeepnaagar"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-<!-- 	<a href="https://github.com/sponsors/terrytangyuan"><img src="imgs/sponsors.svg" alt="Sponsors"></a> -->
-	<a href="https://drive.google.com/file/d/1FnQi-tNJ9IWwpk2hwgQgv8E-t9FPp4SA/view?usp=sharing"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
-	<a href="https://scholar.google.com/citations?user=MQQy_T4AAAAJ&hl=en&authuser=1"><img src="imgs/citations.svg" alt="Citations"></a>
+<h1 align="center">Sandeep Nagar</h1>
+<p align="center">
+  <b>Postdoctoral Researcher</b> · Institute for Advanced Study, Technical University of Munich<br/>
+  Generative models · Normalizing flows · Theoretical ML · AI for health
 </p>
-<!---
-Naagar/Naagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. Hi, I’m Sandeep Nagar
- I’m interested in Theoretical ML, Computer Vision
- I’m currently an MS research student at ML Lab, IIIT-Hyderabad.
- I’m looking to collaborate on Energy-based generative models.
- How to reach me ... !(profile page)[https://naagar.github.io]
---->
-<!-- https://github.com/jbhuang0604/awesome-computer-vision -->
 
-<!-- - Data Scientist leading innovation in AI at Fortune 100 companies -->
-## Selected Papers: 
- - Inverse-Flow: [AISTATS`25](https://naagar.github.io/InverseFlow/)
- - CInC Flow: [TPM-W, UAI`21](https://naagar.github.io/CInCFlow/)
- - FInC Flow: [VISIGRAPP`23](https://naagar.github.io/FInC-Flow/)
- - Geo-SAE: [ASR Journal`24](https://naagar.github.io/stackedAE4Geo/)
- - Seeds purity: [PReMI`21](https://naagar.github.io/cornseedsdataset/)
- - R2I-rPPG: [pre-print](https://arxiv.org/abs/2410.15851)
- - Affine-StableSR: [pre-print`24](https://scholar.google.com/citations?user=MQQy_T4AAAAJ)
- - Art Restoration: [IEEE-ICETCI`23](https://ieeexplore.ieee.org/abstract/document/10331102/)
- - Missing Traffic Sign: [NCVPRIPG-23](https://link.springer.com/chapter/10.1007/978-981-97-5212-6_16)
-#### GitHub Stats
-<!-- https://badges.pufler.dev/repos/{naagar} -->
+<p align="center">
+  <a href="https://naagar.github.io"><img src="https://img.shields.io/badge/Website-naagar.github.io-222?style=flat-square" alt="Website"></a>
+  <a href="https://scholar.google.com/citations?user=MQQy_T4AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://www.linkedin.com/in/sandeepnaagar"><img src="https://img.shields.io/badge/LinkedIn-sandeepnaagar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/NaagarRN"><img src="https://img.shields.io/badge/X-NaagarRN-000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://bsky.app/profile/naagar.bsky.social"><img src="https://img.shields.io/badge/Bluesky-naagar-1185FE?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"></a>
+  <a href="https://drive.google.com/file/d/1FnQi-tNJ9IWwpk2hwgQgv8E-t9FPp4SA/view?usp=sharing"><img src="https://img.shields.io/badge/CV-PDF-6e5494?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
+</p>
 
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=naagar&&hide=stars&show_icons=true&hide_title=true&hide_border=true)](https://github.com/Naagar)
+---
 
-<!-- #### Get in Touch 👽
-- Twitter: [@naagar](https://twitter.com/NaagarRN)
-- LinkedIn: [@naagar](https://www.linkedin.com/in/sandeepnaagar/)
-- Website: [naagar.github.io](https://naagar.github.io) -->
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NaagarRN)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sandeepnaagar/)
+I am a postdoc at [IAS, TU Munich](https://www.ias.tum.de/ias/start/), working with [Prof. Benedikt Wiestler](https://ai-idt.github.io/) (AI-IDT Lab) and [Prof. Anke Meyer-Baese](https://www.sc.fsu.edu/people?uid=ameyerbaese) (Florida State University) on generative models for medical imaging. MCML has a [short film](https://mcml.ai/news/2026-07-31-wiestler-research-film/) on the group's work.
+
+I completed my PhD at the Machine Learning Lab, [IIIT Hyderabad](https://www.iiit.ac.in/), advised by [Prof. Girish Varma](https://girishvarma.in/). The thesis, *[Fast & Efficient Normalizing Flows and Applications of Image Generative Models](https://arxiv.org/abs/2512.04039)*, develops invertible convolutional layers that are both theoretically characterized and fast on GPU, then uses generative models in vision and scientific applications.
+
+I am interested in collaborating on **energy-based models**, **normalizing flows / flow matching**, and **generative models for medical imaging**.
+
+**Previously:** [Samsung Research](https://research.samsung.com/sri-b) (generative super-resolution) · [UIUC](https://ece.illinois.edu/about/directory/faculty/n-ahuja) / UIC College of Medicine (contactless vital signs) · [UNSW](https://www.unsw.edu.au/) / University of Sydney (remote sensing) · B.Tech, [HBTU Kanpur](https://hbtu.ac.in/)
+
+## Research
+
+- **Invertible generative models** — characterizing and accelerating invertible convolutions for normalizing flows (CInC, FInC, Inverse-Flow)
+- **AI for health** — 3D brain MRI synthesis, physics-guided tumor growth, remote photoplethysmography in clinical video
+- **Vision for science** — seed quality assessment, geological mapping from satellite imagery, art restoration
+
+## Highlights
+
+- **AISTATS 2025** — Inverse-Flow: parallel backpropagation for inverse convolution, $O(\sqrt{n})$ vs. $O(n^3)$
+- **COSPAR Outstanding Paper Award for Young Scientists, 2024** — Geo-SAE geological mapping (ASR 2024)
+- **1st place**, NVIDIA competition @ IEEE ICETCI 2023; **1st place**, C4MTS challenge @ NCVPRIPG 2023
+- ACM India–IARCS travel grant (AISTATS 2025); iHub-Data PhD fellowship; Oxford MLSS 2024; Climate Change AI Summer School 2024
+
+## Selected publications
+
+Full list on [Google Scholar](https://scholar.google.com/citations?user=MQQy_T4AAAAJ) and my [website](https://naagar.github.io).
+
+- **Parallel Backpropagation for Inverse of a Convolution with Application to Normalizing Flows**  
+  Sandeep Nagar, Girish Varma  
+  *AISTATS 2025* · [PMLR](https://proceedings.mlr.press/v258/nagar25a.html) · [arXiv](https://arxiv.org/abs/2410.14634) · [project](https://naagar.github.io/InverseFlow/)
+
+- **CInC Flow: Characterizable Invertible 3×3 Convolution**  
+  Sandeep Nagar, Marius Dufraisse, Girish Varma  
+  *TPM @ UAI 2021* · [OpenReview](https://openreview.net/forum?id=kl1ds_AeLRM) · [project](https://naagar.github.io/CInCFlow/) · [code](https://github.com/Naagar/Normalizing_Flow_3x3_inv)
+
+- **FInC Flow: Fast and Invertible k×k Convolutions for Normalizing Flows**  
+  Aditya Kallappa, Sandeep Nagar, Girish Varma  
+  *VISAPP 2023* (oral) · [arXiv](https://arxiv.org/abs/2301.09266) · [project](https://naagar.github.io/FInC-Flow/)
+
+- **Remote Sensing Framework for Geological Mapping via Stacked Autoencoders and Clustering**  
+  Sandeep Nagar\*, Ehsan Farahbakhsh\*, Joseph Awange, Rohitash Chandra  
+  *Advances in Space Research 2024* · COSPAR award  
+  [journal](https://doi.org/10.1016/j.asr.2024.09.013) · [project](https://naagar.github.io/stackedAE4Geo/)
+
+- **R2I-rPPG: A Robust Region of Interest Selection for Remote Photoplethysmography to Extract Heart Rate**  
+  Sandeep Nagar, Mustafa Alam, Mark Hasegawa-Johnson, David G. Beiser, Narendra Ahuja  
+  *preprint* · [arXiv](https://arxiv.org/abs/2410.15851)
+
+- **Automated Seed Quality Testing System using GAN & Active Learning**  
+  Sandeep Nagar, Prateek Pani, Raj Nair, Girish Varma  
+  *PReMI 2021* · [dataset](https://naagar.github.io/cornseedsdataset/) · [code](https://github.com/Naagar/Seeds_Classification)
+
+- **Adaptation of the Super Resolution SOTA for Art Restoration in Camera Capture Images**  
+  Sandeep Nagar, Abhinaba Bala, Sai Amrit Patnaik  
+  *IEEE ICETCI 2023* · [arXiv](https://arxiv.org/abs/2309.13655) · [IEEE](https://ieeexplore.ieee.org/abstract/document/10331102/) · [code](https://github.com/Naagar/art_restoration_DM)
+
+<details>
+<summary>Recent work at TUM (medical imaging)</summary>
+
+- **MRIComp4Flow: Compression of 3D Brain MRI for Training Multi-Modal Generative Models**  
+  Lisa K. Fischer, Mykhailo Riabets, Daniel Rueckert, Benedikt Wiestler, Anke Meyer-Baese, Sandeep Nagar  
+  *preprint, 2026* · [arXiv](https://arxiv.org/abs/2608.10291) · [code](https://github.com/lisafis/MRIComp4Flow)
+
+- **TumorFlow: Physics-Guided Longitudinal MRI Synthesis of Glioblastoma Growth**  
+  Valentin Biller, Niklas Bubeck, Lucas Zimmer, Ayhan Can Erdur, Sandeep Nagar, Anke Meyer-Baese, Daniel Rückert, Benedikt Wiestler, Jonas Weidner  
+  *preprint, 2026* · [arXiv](https://arxiv.org/abs/2603.04058) · [MCML](https://mcml.ai/publications/bbz+26/)
+
+</details>
+
+## Code and data
+
+| Project | Description |
+| --- | --- |
+| [CInC Flow](https://github.com/Naagar/Normalizing_Flow_3x3_inv) | Invertible 3×3 convolutions for normalizing flows (TensorFlow) |
+| [Glow (PyTorch)](https://github.com/Naagar/Glow_NormalizingFlow_Implementation) | Glow reimplementation and density-estimation baselines |
+| [Corn seed dataset](https://github.com/Naagar/Seeds_Classification) | Seed quality classification with cGAN + active learning (~27k images) |
+| [Art restoration](https://github.com/Naagar/art_restoration_DM) | Diffusion-based restoration of degraded art photographs |
+| [Inverse-Flow](https://github.com/Naagar/InverseFlow) | Project page for the AISTATS 2025 parallel inverse-convolution work |
+
+<p align="center"><sub>Full CV, news, and talks: <a href="https://naagar.github.io">naagar.github.io</a></sub></p>
