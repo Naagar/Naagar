@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/sandeepnaagar"><img src="https://img.shields.io/badge/LinkedIn-sandeepnaagar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/NaagarRN"><img src="https://img.shields.io/badge/X-NaagarRN-000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="https://bsky.app/profile/naagar.bsky.social"><img src="https://img.shields.io/badge/Bluesky-naagar-1185FE?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"></a>
-  <a href="https://drive.google.com/file/d/1FnQi-tNJ9IWwpk2hwgQgv8E-t9FPp4SA/view?usp=sharing"><img src="https://img.shields.io/badge/CV-PDF-6e5494?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
+  <a href="https://naagar.github.io/uploads/resume.pdf"><img src="https://img.shields.io/badge/CV-PDF-6e5494?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
 </p>
 
 ---
